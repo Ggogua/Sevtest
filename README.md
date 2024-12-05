@@ -18,7 +18,7 @@ This project is an automation testing framework for a Blog Content Management Sy
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blog-cms-automation-testing.git
+   git clone https://github.com/Ggogua/Sevtest.git
    cd blog-cms-automation-testing
 
 python -m venv venv
@@ -29,14 +29,4 @@ pip install -r requirements.txt
 pytest tests/
 
 
-
-### Explanation:
-- **Project Description**: Briefly describes the purpose of the project.
-- **Features**: Lists key features of your testing framework.
-- **Installation Instructions**: Step-by-step guide to set up the project locally.
-- **Running Tests**: Instructions to run the tests with `pytest`.
-- **CI/CD Information**: Mentions the GitHub Actions integration for automated testing.
-- **License**: If you use a license, mention it here (e.g., MIT License).
-
----
 
